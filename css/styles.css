@@ -1,7 +1,7 @@
 /*styles.css*/
 body{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(18, 18, 18);
-    background-image: url("../pics/BW.jpg");
+    background-image: url("../pics/Rain.jpg");
     background-repeat: repeat;
     background-size:contain;
     color: black; /*this is a comment*/
@@ -18,7 +18,7 @@ a.visted{color:aqua;}
 li{font-style: italic;}
 li:hover{font-size: 105%;
 text-decoration: underline;
-background-color:aqua;}
+background-color:white;}
 .gangnam{
     font-family:chiller;
     font-style:italic;
